@@ -1,2 +1,2 @@
 # js-practice
-Js Practice
+Js Practice - Pure Js Functions
